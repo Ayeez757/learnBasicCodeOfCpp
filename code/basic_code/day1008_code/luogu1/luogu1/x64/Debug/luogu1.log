@@ -1,0 +1,3 @@
+﻿  luogu1.cpp
+D:\Develop\Cpp\code\basic_code\day1008_code\luogu1\luogu1\luogu1.cpp(11,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  luogu1.vcxproj -> D:\Develop\Cpp\code\basic_code\day1008_code\luogu1\x64\Debug\luogu1.exe

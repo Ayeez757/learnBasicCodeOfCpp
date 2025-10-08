@@ -1,0 +1,10 @@
+﻿  priority_queue.cpp
+D:\Develop\Cpp\code\basic_code\day1008_code\priority_queue\priority_queue\priority_queue.cpp(6,5): error C2065: “priority_queue”: 未声明的标识符
+D:\Develop\Cpp\code\basic_code\day1008_code\priority_queue\priority_queue\priority_queue.cpp(6,20): error C2062: 意外的类型“int” 
+D:\Develop\Cpp\code\basic_code\day1008_code\priority_queue\priority_queue\priority_queue.cpp(10,9): error C2065: “que”: 未声明的标识符
+D:\Develop\Cpp\code\basic_code\day1008_code\priority_queue\priority_queue\priority_queue.cpp(16,12): error C2065: “que”: 未声明的标识符
+D:\Develop\Cpp\code\basic_code\day1008_code\priority_queue\priority_queue\priority_queue.cpp(17,21): error C2065: “que”: 未声明的标识符
+D:\Develop\Cpp\code\basic_code\day1008_code\priority_queue\priority_queue\priority_queue.cpp(18,9): error C2065: “que”: 未声明的标识符
+D:\Develop\Cpp\code\basic_code\day1008_code\priority_queue\priority_queue\priority_queue.cpp(19,22): error C2065: “que”: 未声明的标识符
+D:\Develop\Cpp\code\basic_code\day1008_code\priority_queue\priority_queue\priority_queue.cpp(20,9): error C2065: “que”: 未声明的标识符
+D:\Develop\Cpp\code\basic_code\day1008_code\priority_queue\priority_queue\priority_queue.cpp(23,9): error C2065: “que”: 未声明的标识符

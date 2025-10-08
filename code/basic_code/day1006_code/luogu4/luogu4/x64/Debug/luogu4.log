@@ -1,0 +1,39 @@
+﻿  luogu4.cpp
+D:\Develop\Cpp\code\basic_code\day1006_code\luogu4\luogu4\luogu4.cpp(6,13): error C2131: 表达式的计算结果不是常数
+      D:\Develop\Cpp\code\basic_code\day1006_code\luogu4\luogu4\luogu4.cpp(6,13):
+      因读取超过生命周期的变量而失败
+      D:\Develop\Cpp\code\basic_code\day1006_code\luogu4\luogu4\luogu4.cpp(6,13):
+      请参见“n”的用法
+  
+D:\Develop\Cpp\code\basic_code\day1006_code\luogu4\luogu4\luogu4.cpp(7,16): error C2131: 表达式的计算结果不是常数
+      D:\Develop\Cpp\code\basic_code\day1006_code\luogu4\luogu4\luogu4.cpp(7,14):
+      因读取超过生命周期的变量而失败
+      D:\Develop\Cpp\code\basic_code\day1006_code\luogu4\luogu4\luogu4.cpp(7,14):
+      请参见“n”的用法
+  
+D:\Develop\Cpp\code\basic_code\day1006_code\luogu4\luogu4\luogu4.cpp(9,18): warning C4552: ”>>“: 未使用表达式结果
+D:\Develop\Cpp\code\basic_code\day1006_code\luogu4\luogu4\luogu4.cpp(12,17): error C3863: 不可指定数组类型“int [n+2]”
+D:\Develop\Cpp\code\basic_code\day1006_code\luogu4\luogu4\luogu4.cpp(39,20): error C2672: “std::min”: 未找到匹配的重载函数
+      D:\Develop\clanguage\code\VC\Tools\MSVC\14.44.35207\include\utility(109,26):
+      可能是“_Ty std::min(std::initializer_list<_Elem>)”
+          D:\Develop\Cpp\code\basic_code\day1006_code\luogu4\luogu4\luogu4.cpp(39,20):
+          “_Ty std::min(std::initializer_list<_Elem>)”: 应输入 1 个参数，却提供了 2 个
+      D:\Develop\clanguage\code\VC\Tools\MSVC\14.44.35207\include\utility(106,26):
+      或    “_Ty std::min(std::initializer_list<_Elem>,_Pr)”
+          D:\Develop\Cpp\code\basic_code\day1006_code\luogu4\luogu4\luogu4.cpp(39,20):
+          “_Ty std::min(std::initializer_list<_Elem>,_Pr)”: 无法从“int [n]”推导出“std::initializer_list<_Elem>”的 模板 参数
+      D:\Develop\clanguage\code\VC\Tools\MSVC\14.44.35207\include\utility(98,6):
+      或    “const _Ty &std::min(const _Ty &,const _Ty &) noexcept(<expr>)”
+          D:\Develop\Cpp\code\basic_code\day1006_code\luogu4\luogu4\luogu4.cpp(39,20):
+          “const _Ty &std::min(const _Ty &,const _Ty &) noexcept(<expr>)”: 模板 参数“_Ty”不明确
+              D:\Develop\Cpp\code\basic_code\day1006_code\luogu4\luogu4\luogu4.cpp(39,20):
+              可能是“int”
+              D:\Develop\Cpp\code\basic_code\day1006_code\luogu4\luogu4\luogu4.cpp(39,20):
+              或    “int [n]”
+          D:\Develop\Cpp\code\basic_code\day1006_code\luogu4\luogu4\luogu4.cpp(39,20):
+          “const _Ty &std::min(const _Ty &,const _Ty &) noexcept(<expr>)”: 无法从“int”推导出“const _Ty &”的 模板 参数
+      D:\Develop\clanguage\code\VC\Tools\MSVC\14.44.35207\include\utility(88,33):
+      或    “const _Ty &std::min(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)”
+          D:\Develop\Cpp\code\basic_code\day1006_code\luogu4\luogu4\luogu4.cpp(39,20):
+          “const _Ty &std::min(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)”: 应输入 3 个参数，却提供了 2 个
+  

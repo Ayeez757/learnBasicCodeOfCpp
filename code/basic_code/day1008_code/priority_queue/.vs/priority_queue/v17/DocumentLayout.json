@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Develop\\Cpp\\code\\basic_code\\day1008_code\\priority_queue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90C20F70-20CC-44B6-9E5B-F43FC37F4DE4}|priority_queue\\priority_queue.vcxproj|D:\\Develop\\Cpp\\code\\basic_code\\day1008_code\\priority_queue\\priority_queue\\priority_queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90C20F70-20CC-44B6-9E5B-F43FC37F4DE4}|priority_queue\\priority_queue.vcxproj|solutionrelative:priority_queue\\priority_queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "priority_queue.cpp",
+              "DocumentMoniker": "D:\\Develop\\Cpp\\code\\basic_code\\day1008_code\\priority_queue\\priority_queue\\priority_queue.cpp",
+              "RelativeDocumentMoniker": "priority_queue\\priority_queue.cpp",
+              "ToolTip": "D:\\Develop\\Cpp\\code\\basic_code\\day1008_code\\priority_queue\\priority_queue\\priority_queue.cpp",
+              "RelativeToolTip": "priority_queue\\priority_queue.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-08T09:46:26.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
