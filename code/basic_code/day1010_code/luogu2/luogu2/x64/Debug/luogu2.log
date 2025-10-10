@@ -1,0 +1,45 @@
+﻿  luogu2.cpp
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(7,13): error C2131: 表达式的计算结果不是常数
+      D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(7,13):
+      因读取超过生命周期的变量而失败
+      D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(7,13):
+      请参见“n”的用法
+  
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(7,16): error C2131: 表达式的计算结果不是常数
+      D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(7,16):
+      因读取超过生命周期的变量而失败
+      D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(7,16):
+      请参见“n”的用法
+  
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(11,32): error C2143: 语法错误: 缺少“,”(在“<”的前面)
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(11,30): error C2086: “int j”: 重定义
+      D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(11,18):
+      参见“j”的声明
+  
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(11,40): error C2059: 语法错误:“)”
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(12,13): error C2059: 语法错误:“for”
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(12,32): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(12,33): error C2065: “k”: 未声明的标识符
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(12,40): error C2065: “k”: 未声明的标识符
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(12,43): error C2059: 语法错误:“)”
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(13,24): error C2065: “k”: 未声明的标识符
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(13,28): error C2059: 语法错误:“;”
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(16,5): error C2059: 语法错误:“}”
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(16,5): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(18,19): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(18,22): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(18,20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(18,22): error C2059: 语法错误:“<”
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(18,27): error C2143: 语法错误: 缺少“;”(在“++”的前面)
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(18,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(18,26): error C2086: “int i”: 重定义
+      D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(18,20):
+      参见“i”的声明
+  
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(18,27): error C2059: 语法错误:“++”
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(18,29): error C2059: 语法错误:“)”
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(18,31): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(18,31): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(27,5): error C2059: 语法错误:“return”
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(28,1): error C2059: 语法错误:“}”
+D:\Develop\Cpp\code\basic_code\day1010_code\luogu2\luogu2\luogu2.cpp(28,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
