@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Develop\\Cpp\\code\\basic_code\\day1015_code\\lugou1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD4EA44-4057-48BB-A4E2-4FDF732B3C96}|lugou1\\lugou1.vcxproj|D:\\Develop\\Cpp\\code\\basic_code\\day1015_code\\lugou1\\lugou1\\luogu1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFD4EA44-4057-48BB-A4E2-4FDF732B3C96}|lugou1\\lugou1.vcxproj|solutionrelative:lugou1\\luogu1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "luogu1.cpp",
+              "DocumentMoniker": "D:\\Develop\\Cpp\\code\\basic_code\\day1015_code\\lugou1\\lugou1\\luogu1.cpp",
+              "RelativeDocumentMoniker": "lugou1\\luogu1.cpp",
+              "ToolTip": "D:\\Develop\\Cpp\\code\\basic_code\\day1015_code\\lugou1\\lugou1\\luogu1.cpp*",
+              "RelativeToolTip": "lugou1\\luogu1.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T04:54:33.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

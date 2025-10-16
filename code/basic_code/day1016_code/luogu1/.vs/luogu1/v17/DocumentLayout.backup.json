@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Develop\\Cpp\\code\\basic_code\\day1016_code\\luogu1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C26437FC-0634-4435-A20B-914B49747406}|luogu1\\luogu1.vcxproj|D:\\Develop\\Cpp\\code\\basic_code\\day1016_code\\luogu1\\luogu1\\luogu1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C26437FC-0634-4435-A20B-914B49747406}|luogu1\\luogu1.vcxproj|solutionrelative:luogu1\\luogu1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "luogu1.cpp",
+              "DocumentMoniker": "D:\\Develop\\Cpp\\code\\basic_code\\day1016_code\\luogu1\\luogu1\\luogu1.cpp",
+              "RelativeDocumentMoniker": "luogu1\\luogu1.cpp",
+              "ToolTip": "D:\\Develop\\Cpp\\code\\basic_code\\day1016_code\\luogu1\\luogu1\\luogu1.cpp*",
+              "RelativeToolTip": "luogu1\\luogu1.cpp*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-16T02:58:54.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
