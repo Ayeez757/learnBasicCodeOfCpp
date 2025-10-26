@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Develop\\Cpp\\code\\basic_code\\day1022_code\\helphskdebug\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86449770-3B35-4645-AC50-BC3877D0D16A}|helphskdebug\\helphskdebug.vcxproj|D:\\Develop\\Cpp\\code\\basic_code\\day1022_code\\helphskdebug\\helphskdebug\\debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86449770-3B35-4645-AC50-BC3877D0D16A}|helphskdebug\\helphskdebug.vcxproj|solutionrelative:helphskdebug\\debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "debug.cpp",
+              "DocumentMoniker": "D:\\Develop\\Cpp\\code\\basic_code\\day1022_code\\helphskdebug\\helphskdebug\\debug.cpp",
+              "RelativeDocumentMoniker": "helphskdebug\\debug.cpp",
+              "ToolTip": "D:\\Develop\\Cpp\\code\\basic_code\\day1022_code\\helphskdebug\\helphskdebug\\debug.cpp",
+              "RelativeToolTip": "helphskdebug\\debug.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-22T12:12:26.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
